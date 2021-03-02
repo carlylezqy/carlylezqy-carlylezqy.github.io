@@ -1,39 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎
 
-You can use the [editor on GitHub](https://github.com/carlylezqy/carlylezqy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Mass–energy equivalence
+$$E_{0}=m c^{2}$$
+该公式表明物体相对于一个参照系静止时仍然有能量，这是违反牛顿系统的，因为在牛顿系统中，静止物体是没有能量的。这就是为什么物体的质量被称为静止质量。公式中的E可以看成是物体总能量，它与物体总质量（该质量包括静止质量和运动所带来的质量）成正比，只有当物体静止时，它才与物体的（静止）质量（牛顿系统中的质量）成正比。这也表明物体的总质量和静止质量不同。反过来讲，一束光子在真空中传播，其静止质量是0，但由于它们有运动能量，因此它们也有质量。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-$ y = 1^2 $
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlylezqy/carlylezqy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+来自维基百科
