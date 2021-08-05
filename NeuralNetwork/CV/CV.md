@@ -2,7 +2,7 @@
 
 [R-CNN.md](R-CNN.md)
 
-[Object Detection.md](Object Detection.md)
+[Object Detection](Object Detection.md)
 
 [HRNet.md](HRNet.md)
 
@@ -13,3 +13,4 @@
 [CornerNet.md](CornerNet.md)
 
 [CenterNet.md](CenterNet.md)
+
