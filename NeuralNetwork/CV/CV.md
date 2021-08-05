@@ -1,15 +1,15 @@
-(Segmentation)[Segmentation.md]
+[Segmentation.md](Segmentation.md)
 
-(R-CNN)[R-CNN.md]
+[R-CNN.md](R-CNN.md)
 
-(Object Detection)[Object Detection.md]
+[Object Detection.md](Object Detection.md)
 
-(HRNet)[HRNet.md]
+[HRNet.md](HRNet.md)
 
-(FCN)[FCN.md]
+[FCN.md](FCN.md)
 
-(CV)[CV.md]
+[CV.md](CV.md)
 
-(CornerNet)[CornerNet.md]
+[CornerNet.md](CornerNet.md)
 
-(CenterNet)[CenterNet.md]
+[CenterNet.md](CenterNet.md)
